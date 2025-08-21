@@ -1,5 +1,5 @@
 # meshtastic_meteo
-Code to send weather messages to a specific meshtastic node or channel
+Code to send weather messages to a specific meshtastic node or channel<br>
 <br>
 Written in Python, this code allows you to send weather messages (data retrieved from Open Meteo) to a LoRa board equipped with MeshTastic firmware. The board can be reached via serial/USB or network.<br>
 
