@@ -13,5 +13,6 @@ Nothing else is needed; run it by prefixing it with the python command.<br>
 ![](https://github.com/ik5xmk/meshtastic_meteo/blob/main/messaggio_ricevuto.jpg)<br>
 
 For more information:<br>
+https://www.loraitalia.it/<br>
 https://meshtastic.org/<br>
 https://open-meteo.com/<br>
