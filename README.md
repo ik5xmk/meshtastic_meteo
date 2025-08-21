@@ -8,7 +8,7 @@ Edit the code in the CONFIGURATION section, enter the communication port or netw
 
 Nothing else is needed; run it by prefixing it with the python command.<br>
 
-![](https://github.com/ik5xmk/meteo_mc/blob/main/meshtastic_meteo.jpg)<br>
+![](https://github.com/ik5xmk/meshtastic_meteo/blob/main/meshtastic_meteo.jpg)<br>
 
 For more information:<br>
 https://meshtastic.org/<br>
